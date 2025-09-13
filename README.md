@@ -1,4 +1,4 @@
-# 🚀 Tarek Masryo  
+# Tarek Masryo  
 
 **Applied Machine Learning Engineer | Data Scientist**  
 Building reliable ML pipelines, scalable MLOps workflows, and practical Generative AI applications.  
@@ -103,3 +103,4 @@ I specialize in **end-to-end Machine Learning engineering**:
 ---
 
 ⚡ *“Bridging data and deployment — one pipeline at a time.”*  
+
