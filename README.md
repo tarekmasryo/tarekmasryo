@@ -7,7 +7,7 @@ Building reliable ML pipelines, scalable MLOps workflows, and practical Generati
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-7040FF?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/tarekmasryo)<br>
 
-[![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-SPACES-FFD21E?logo=huggingface&logoColor=000000&labelColor=3a3a3a&style=flat-square)](https://huggingface.co/TarekMasryo)
+[![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-SPACES-FFD21E?logo=huggingface&logoColor=000000&labelColor=EDEDED&style=flat-square)](https://huggingface.co/TarekMasryo)
 
 ---
 
