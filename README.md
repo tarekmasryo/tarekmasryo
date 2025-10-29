@@ -99,13 +99,6 @@ Feature engineering, model ensembling, and explainability on the classic dataset
 - 🚀 **HuggingFace Publisher** — Datasets, Spaces, and Models  
 - ⚡ **GitHub** — Open-source ML Pipelines  
 
----
-
-## 📬 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tarek-elmasry-4bb252263/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?logo=kaggle)](https://www.kaggle.com/tarekmasryo)  
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface)](https://huggingface.co/TarekMasryo)  
 
 ---
 
