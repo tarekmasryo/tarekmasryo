@@ -3,8 +3,10 @@
 **AI/ML Engineer | PyTorch · FastAPI · Docker | MLOps & Generative AI**  
 Building reliable ML pipelines, scalable MLOps workflows, and practical Generative AI applications.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tarek-elmasry-4bb252263/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tarek-elmasry-4bb252263/)
+
 [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-7040FF?logo=kaggle&logoColor=white)](https://www.kaggle.com/tarekmasryo)
+
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow?logo=huggingface)](https://huggingface.co/TarekMasryo)  
 
 ---
