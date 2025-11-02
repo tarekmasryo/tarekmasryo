@@ -1,6 +1,6 @@
 # Tarek Masryo  
 
-**AI/ML Engineer | PyTorch · FastAPI · Docker | MLOps & Generative AI**  
+**AI/ML Engineer | GenAI · LLMs · Deep Learning · MLOps | PyTorch · FastAPI · Docker**  
 Building reliable ML pipelines, scalable MLOps workflows, and practical Generative AI applications.  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/tarek-elmasry-4bb252263/)
