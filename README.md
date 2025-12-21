@@ -1,141 +1,134 @@
-<!-- Profile README — github.com/tarekmasryo -->
+# Tarek Masryo
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=190&section=header&text=Tarek%20Masryo&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20GenAI%2FLLMs%20%E2%80%A2%20MLOps%20%E2%80%A2%20Decision-Ready%20Dashboards&descAlignY=62"
-    alt="Tarek Masryo Banner"
-  />
-</p>
+**AI/ML Engineer | PyTorch · FastAPI · Docker | MLOps & Generative AI**  
+Building reliable ML pipelines, decision-ready dashboards, and practical GenAI/RAG utilities.
 
-<h1 align="center">Tarek Masryo</h1>
-
-<p align="center">
-  AI/ML Engineer building <b>decision-ready dashboards</b>, <b>production-minded ML pipelines</b>, and <b>reliable GenAI/RAG apps</b>.
-  <br/>
-  Turning messy data → measurable insights → deployable systems.
-</p>
-
-<p align="center">
-  <a href="https://github.com/tarekmasryo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-tarekmasryo-181717?logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tarek-masryo/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/tarekmasryo" target="_blank">
-    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Work-20BEFF?logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://huggingface.co/tarekmasryo" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Spaces%20%26%20Datasets-FFD21E?logo=huggingface&logoColor=000"/>
-  </a>
-  <a href="https://share.streamlit.io/user/tarekmasryo" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-masryo/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Work-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/tarekmasryo)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces%20%26%20Datasets-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/tarekmasryo)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white)](https://share.streamlit.io/user/tarekmasryo)
+[![Repos](https://img.shields.io/badge/GitHub-Repos%20(by%20stars)-181717?logo=github&logoColor=white)](https://github.com/tarekmasryo?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ---
 
-## What I ship
+## 🧑‍💻 About Me
 
-- **Decision-ready dashboards:** KPIs → filters → thresholds → actions (ops-style UX).
-- **End-to-end ML workflows:** data → features → models → evaluation → packaging → API-ready delivery.
-- **GenAI / RAG utilities:** structured outputs, safety checks, logging, and best-effort automation for real repos.
-
----
-
-## Quick navigation
-
-- **GitHub repos (sorted by stars):**  
-  https://github.com/tarekmasryo?tab=repositories&q=&type=&language=&sort=stargazers
-
-- **Kaggle datasets:**  
-  https://www.kaggle.com/tarekmasryo/datasets
-
-- **Kaggle notebooks:**  
-  https://www.kaggle.com/tarekmasryo/code
-
-- **Hugging Face profile (Spaces + Datasets):**  
-  https://huggingface.co/tarekmasryo
-
-- **Streamlit apps:**  
-  https://share.streamlit.io/user/tarekmasryo
+I work across the **end-to-end ML lifecycle** (production-minded):
+- Raw data → clean datasets → interactive analytics & **Streamlit dashboards**
+- **ML pipelines**: EDA → Feature Engineering → Modeling → Evaluation → Packaging
+- **GenAI & RAG** utilities with structured outputs, validation, and reliability patterns
+- **MLOps practices** with FastAPI, Docker, MLflow, and CI/CD-friendly workflows
+- Publishing **datasets / notebooks / apps** across Kaggle + Hugging Face
 
 ---
 
-## Featured work
+## ✅ What I Build (clear focus)
 
-### Dashboards & Apps (Streamlit / Hugging Face)
+- **Decision-ready dashboards** (not just charts): KPIs → filters → thresholds → actions
+- **Pipeline-style ML projects**: reproducible training + evaluation + inference-ready artifacts
+- **GenAI tools** that prioritize reliability: output contracts, safe inputs, and logging
 
-- **Fraud Detection Dashboard (Streamlit)** — interactive prediction + evaluation mindset + product-style UI.  
+---
+
+## 🚀 Featured Work
+
+### 🧩 Apps & Dashboards
+
+- **Fraud Detection Dashboard** — interactive ML app with product-style UX  
   Repo: https://github.com/tarekmasryo/fraud-detection-dashboard
 
-- **Hugging Face Spaces** — deployable demos (GenAI tools + analytics dashboards).  
+- **Hugging Face Spaces (Live demos)** — deployable GenAI + analytics utilities  
   Profile: https://huggingface.co/tarekmasryo
 
+- **Streamlit Apps (Live)**  
+  Profile: https://share.streamlit.io/user/tarekmasryo
+
 ---
 
-### Data products (Kaggle Datasets)
+### 📦 Data Products (Kaggle Datasets)
 
-- **YouTube Shorts & TikTok Trends 2025** — short-form social trends dataset for analytics, forecasting signals, and virality exploration.  
+- **YouTube Shorts & TikTok Trends 2025** — short-form trends dataset for analytics and virality exploration  
   Dataset: https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 
-- **RAG QA Evaluation Logs & Corpus** — ops-friendly dataset for RAG evaluation, scenarios, and QA log analysis.  
-  Dataset: https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus
-
-- **Cancer Risk Factors Dataset** — clean, analysis-ready features for health risk modeling & EDA.  
-  Dataset: https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset
-
-- **Football Matches 2024/2025 (Top Leagues + UCL)** — standardized match-level data for analytics & modeling.  
-  Dataset: https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues
+- **Browse all datasets**  
+  https://www.kaggle.com/tarekmasryo/datasets
 
 ---
 
-## Engineering depth (selected GitHub repos)
+### 📓 Notebooks (Kaggle Code)
 
-> A focused set that represents my “builder” profile: pipelines, ML apps, and production-style notebooks.
+- Browse notebooks: https://www.kaggle.com/tarekmasryo/code
 
-- **Text Sentiment Analysis** — NLP workflow + modeling and evaluation structure.  
+> Notes: I focus on notebooks that read like real work: clear goal → clean EDA → modeling → evaluation → decisions.
+
+---
+
+## 📌 Selected GitHub Projects (Engineering Depth)
+
+- **Text Sentiment Analysis** — NLP workflow + modeling + evaluation structure  
   https://github.com/tarekmasryo/text-sentiment-analysis
 
-- **Pima Diabetes Pipeline** — production-minded ML pipeline layout (data → train → evaluate → ready-to-serve).  
+- **Pima Diabetes Pipeline** — pipeline-style ML project (train/evaluate/infer)  
   https://github.com/tarekmasryo/pima-diabetes-pipeline
 
-- **Fraud Detection Dashboard** — interactive app + calibrated thinking + decision-style UX.  
+- **Fraud Detection Dashboard** — Streamlit app wired to ML artifacts  
   https://github.com/tarekmasryo/fraud-detection-dashboard
 
-- **Repos sorted by stars (best entry point)**  
+- **Repos overview (sorted by stars)** — best entry point to skim quickly  
   https://github.com/tarekmasryo?tab=repositories&q=&type=&language=&sort=stargazers
 
 ---
 
-## Curated lists (project hubs)
+## 📂 Portfolio Sections (Curated GitHub Lists)
 
-These lists group repositories into end-to-end project hubs (dataset → notebook → app).
+These lists group repos into **project hubs** (dataset → notebook → app).  
+All lists: https://github.com/stars/tarekmasryo/lists
 
-**All lists:** https://github.com/stars/tarekmasryo/lists
+- 📱 **YouTube Shorts & TikTok Trends**  
+  https://github.com/stars/tarekmasryo/lists/youtube-shorts-tiktok-trends
 
-- YouTube Shorts & TikTok Trends  
-- Digital Habits and Mental Health  
-- Credit Card Fraud Detection  
-- Generative AI Tools & Trends  
-- Global EV Charging  
-- Football Matches Analytics  
+- 🧠 **Digital Habits and Mental Health**  
+  https://github.com/stars/tarekmasryo/lists/digital-habits-and-mental-health
+
+- 🛡️ **Credit Card Fraud Detection**  
+  https://github.com/stars/tarekmasryo/lists/credit-card-fraud-detection
+
+- 🤖 **Generative AI Tools & Trends**  
+  https://github.com/stars/tarekmasryo/lists/generative-ai-tools-trends
+
+- ⚡ **Global EV Charging**  
+  https://github.com/stars/tarekmasryo/lists/global-ev-charging
+
+- ⚽ **Football Matches Analytics**  
+  https://github.com/stars/tarekmasryo/lists/football-matches-analytics
+
+> If any list link changes, open the “All lists” page above — it’s the source of truth.
 
 ---
 
-## Tech stack (compact)
+## 🛠️ Core Tech Stack
 
-**Core:** Python, SQL, Bash  
-**ML/DL:** PyTorch, scikit-learn, XGBoost  
-**Serving:** FastAPI, Docker  
-**MLOps:** MLflow, GitHub Actions  
-**Apps & Viz:** Streamlit, Plotly, Matplotlib  
-**GenAI:** Hugging Face Hub, RAG patterns
+| **Category** | **Tools** |
+|--------------|-----------|
+| **Languages & Core** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) |
+| **ML / DL** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?logo=xgboost&logoColor=white)](https://xgboost.ai/) |
+| **MLOps / Deployment** | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) [![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) |
 
 ---
+
+## 🔧 Extended Skills
+
+| **Category** | **Tools** |
+|--------------|-----------|
+| **Visualization & Apps** | [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/) [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)](https://matplotlib.org/) |
+| **GenAI / RAG** | [![HuggingFace](https://img.shields.io/badge/HuggingFace-FECA57?logo=huggingface&logoColor=black)](https://huggingface.co/tarekmasryo) |
+
+---
+
+## 📊 GitHub Stats
 
 <details>
-  <summary><b>GitHub activity</b></summary>
+  <summary><b>Open</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tarekmasryo&show_icons=true&hide_title=true" height="160"/>
@@ -145,9 +138,14 @@ These lists group repositories into end-to-end project hubs (dataset → noteboo
 
 ---
 
-## Connect
+## ⭐ Let’s Collaborate
 
-- LinkedIn: https://www.linkedin.com/in/tarek-masryo/  
-- Kaggle: https://www.kaggle.com/tarekmasryo  
-- Hugging Face: https://huggingface.co/tarekmasryo  
-- Streamlit: https://share.streamlit.io/user/tarekmasryo
+I’m open to collaborations on:
+- productionizing ML pipelines (evaluation → deployment)
+- dashboards for real-world decision support
+- GenAI/RAG tools with reliability constraints
+
+📬 Best contact: LinkedIn  
+https://www.linkedin.com/in/tarek-masryo/
+
+⚡ *Bridging data and deployment — turning ML work into decision-ready products.*
