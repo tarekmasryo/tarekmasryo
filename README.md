@@ -10,9 +10,9 @@
 <h1 align="center">Tarek Masryo</h1>
 
 <p align="center">
-  AI/ML Engineer building <b>decision-ready dashboards</b>, <b>production-minded ML pipelines</b>, and <b>reliable GenAI/RAG apps</b>.
+  AI/ML Engineer focused on <b>production-ready ML systems</b>, <b>decision-oriented analytics</b>, and <b>reliable GenAI/RAG utilities</b>.
   <br/>
-  Turning raw data → measurable insights → deployable systems.
+  I build workflows that move from <b>data</b> to <b>measurable outcomes</b> and <b>deployable artifacts</b>.
 </p>
 
 <p align="center">
@@ -35,88 +35,90 @@
 
 ---
 
-## What I ship
+## ✨ What I build
 
-- **Decision-ready dashboards:** KPIs → filters → thresholds → actions (ops-style UX).
-- **End-to-end ML workflows:** data → features → models → evaluation → packaging → inference.
-- **GenAI / RAG utilities:** structured outputs, safety checks, logging, and best-effort automation.
-
----
-
-## Production mindset
-
-- **Evaluation-first:** clear baselines, error analysis, and decision thresholds.
-- **Reproducible by default:** clean project structure, configs, deterministic runs, minimal “magic”.
-- **Deployable artifacts:** saved models + inference-ready code paths + app/API integration.
-- **Reliability (GenAI):** input validation, output contracts, lightweight risk checks.
+- 🧩 **Decision-ready dashboards:** interactive analytics designed for operational use (KPIs, filtering, drill-down, and clear takeaways).
+- 🧱 **End-to-end ML workflows:** dataset preparation, feature engineering, training, evaluation, and inference-ready delivery.
+- 🛡️ **GenAI / RAG utilities:** structured outputs, validation, and reliability patterns for practical applications.
 
 ---
 
-## Start here
+## 🧠 Engineering principles
 
-- ⭐ **Repos (sorted by stars):**  
+- ✅ **Evaluation-first:** baselines, reliable metrics, error analysis, and threshold/decision clarity.
+- 🧪 **Reproducibility:** clean structure, configuration-driven runs, deterministic behavior where possible.
+- 📦 **Deployability:** artifacts saved and packaged for downstream consumption (apps/APIs).
+- 🔎 **Reliability & safety (GenAI):** input checks, output contracts, and lightweight risk controls.
+
+---
+
+## 🧭 Quick links
+
+- ⭐ Repos (sorted by stars):  
   https://github.com/tarekmasryo?tab=repositories&q=&type=&language=&sort=stargazers
 
-- 📦 **Kaggle datasets:**  
+- 📦 Kaggle datasets:  
   https://www.kaggle.com/tarekmasryo/datasets
 
-- 📓 **Kaggle notebooks:**  
+- 📓 Kaggle notebooks:  
   https://www.kaggle.com/tarekmasryo/code
 
-- 🤗 **Hugging Face (Spaces + Datasets):**  
+- 🤗 Hugging Face (Spaces + Datasets):  
   https://huggingface.co/tarekmasryo
 
-- 🧩 **Streamlit apps:**  
+- 🧩 Streamlit apps:  
   https://share.streamlit.io/user/tarekmasryo
 
 ---
 
-## Featured work
+## 🌟 Selected work
 
-### Dashboards & Apps
+### 🧩 Applications
 
-- **Fraud Detection Dashboard** — Streamlit app wired to ML artifacts with a decision-style UX.  
+- **Fraud Detection Dashboard** — Streamlit application integrated with ML artifacts and decision-oriented UI.  
   https://github.com/tarekmasryo/fraud-detection-dashboard
 
-- **Streamlit Portfolio (apps gallery)** — dashboards across analytics + ML.  
+- **Streamlit portfolio** — curated gallery of deployed dashboards.  
   https://share.streamlit.io/user/tarekmasryo
 
+---
 
-### Data products (Kaggle)
+### 📦 Datasets (Kaggle)
 
-- **YouTube Shorts & TikTok Trends 2025** — short-form trends dataset for virality/trend analytics.  
+- **YouTube Shorts & TikTok Trends 2025** — short-form trends dataset for analytics and virality exploration.  
   https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 
-- **RAG QA Evaluation Logs & Corpus** — ops-friendly dataset for RAG evaluation + telemetry analysis.  
+- **RAG QA Evaluation Logs & Corpus** — dataset for RAG evaluation, scenarios, and telemetry-style QA analysis.  
   https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus
 
-- **Cancer Risk Factors Dataset** — clean, analysis-ready features for health risk modeling & EDA.  
+- **Cancer Risk Factors Dataset** — analysis-ready features suitable for health risk modeling and EDA.  
   https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset
 
-- **Football Matches 2024/2025 — Top Leagues + UCL** — standardized match-level data for analytics & modeling.  
+- **Football Matches 2024/2025 — Top Leagues + UCL** — match-level dataset for sports analytics and modeling.  
   https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues
 
-- **Digital Lifestyle & Mental Wellness** — screen-time & behavior signals for wellbeing modeling.  
+- **Digital Lifestyle & Mental Wellness** — behavioral signals for wellbeing analytics and modeling.  
   https://www.kaggle.com/datasets/tarekmasryo/digital-health-and-mental-wellness
 
+---
 
-### Notebooks (Kaggle)
+### 📓 Notebooks (Kaggle)
 
-- **Credit Card Fraud Detection** — full workflow: EDA → modeling → evaluation decisions.  
+- **Credit Card Fraud Detection** — end-to-end workflow with evaluation and practical decision framing.  
   https://www.kaggle.com/code/tarekmasryo/credit-card-fraud-detection
 
-- **Road Accident Risk — PS5E10** — competition-style pipeline with structured evaluation.  
+- **Road Accident Risk — PS5E10** — modeling workflow with structured evaluation and feature work.  
   https://www.kaggle.com/code/tarekmasryo/road-accident-risk-ps5e10
 
-- **Customer Segmentation Analysis** — clustering + interpretation (business-style insights).  
+- **Customer Segmentation Analysis** — clustering workflow with interpretation and actionable grouping.  
   https://www.kaggle.com/code/tarekmasryo/customer-segmentation-analysis
 
-- **Cancer Risk Factors Prediction** — modeling workflow focused on trustworthy evaluation.  
+- **Cancer Risk Factors Prediction** — supervised modeling workflow with evaluation clarity.  
   https://www.kaggle.com/code/tarekmasryo/cancer-risk-factors-prediction
 
 ---
 
-## Engineering depth (selected GitHub repos)
+## 🧱 Engineering depth (GitHub)
 
 - **Credit Card Fraud Detection — A Pipeline Journey**  
   https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey
@@ -132,40 +134,45 @@
 
 ---
 
-## Curated lists (project hubs)
+## 🗂️ Curated lists (project hubs)
 
-These lists group repositories into end-to-end hubs (dataset → notebook → app).  
-**All lists:** https://github.com/stars/tarekmasryo/lists
+Project hubs that group repositories into end-to-end tracks (dataset → notebook → app).  
+All lists: https://github.com/stars/tarekmasryo/lists
 
-- YouTube Shorts & TikTok Trends  
-- Digital Habits & Mental Health  
-- Credit Card Fraud Detection  
-- Generative AI Tools & Trends  
-- Global EV Charging  
-- Football Matches Analytics  
-
----
-
-## Tech stack (compact)
-
-**Core:** Python, SQL, Bash  
-**ML/DL:** PyTorch, scikit-learn, XGBoost  
-**Serving:** FastAPI, Docker  
-**MLOps:** MLflow, GitHub Actions  
-**Apps & Viz:** Streamlit, Plotly, Matplotlib  
-**GenAI:** Hugging Face Hub, RAG patterns
+- 📱 YouTube Shorts & TikTok Trends  
+- 🌿 Digital Habits & Mental Health  
+- 💳 Credit Card Fraud Detection  
+- 🤖 Generative AI Tools & Trends  
+- ⚡ Global EV Charging  
+- ⚽ Football Matches Analytics  
 
 ---
 
-## Contact
+## 🛠️ Tech stack
 
-Best contact: **LinkedIn**  
+- 🐍 **Core:** Python, SQL, Bash  
+- 🧠 **ML/DL:** PyTorch, scikit-learn, XGBoost  
+- 🚀 **Serving:** FastAPI, Docker  
+- 🧰 **MLOps:** MLflow, GitHub Actions  
+- 📊 **Apps & visualization:** Streamlit, Plotly, Matplotlib  
+- 🧩 **GenAI:** Hugging Face Hub, RAG patterns
+
+---
+
+## 🤝 Collaboration
+
+Open to collaboration on:
+- decision-ready dashboards for real datasets  
+- ML workflow productionization (evaluation → deployment)  
+- GenAI/RAG utilities with reliability requirements  
+
+Contact (preferred): LinkedIn  
 https://www.linkedin.com/in/tarek-masryo/
 
 ---
 
 <details>
-  <summary><b>GitHub activity</b></summary>
+  <summary><b>📈 GitHub activity</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tarekmasryo&show_icons=true&hide_title=true" height="160"/>
