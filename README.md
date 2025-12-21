@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=215&section=header&text=Tarek%20Masryo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20GenAI%2FLLMs%20%E2%80%A2%20Decision-Ready%20Dashboards&descAlignY=64"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Tarek%20Masryo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20GenAI%2FLLMs%20%E2%80%A2%20Decision-Ready%20Dashboards&descAlignY=64"
     alt="Tarek Masryo Banner"
   />
 </p>
@@ -10,9 +10,9 @@
 <h1 align="center">Tarek Masryo</h1>
 
 <p align="center">
-  AI/ML Engineer focused on <b>production-minded ML pipelines</b>, <b>decision-ready dashboards</b>, and <b>reliable GenAI/RAG utilities</b>.
+  <b>AI/ML Engineer</b> building <b>production-minded pipelines</b>, <b>decision-ready dashboards</b>, and <b>reliable GenAI/RAG utilities</b>.
   <br/>
-  Turning raw data into <b>clear insights</b> and <b>deployable systems</b>.
+  From raw data → measurable insights → deployable systems.
 </p>
 
 <p align="center">
@@ -25,9 +25,6 @@
 <p align="center">
   <a href="https://github.com/tarekmasryo" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" />
-  </a>
-  <a href="https://github.com/tarekmasryo?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Starred%20Repos-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1220" />
   </a>
   <a href="https://www.linkedin.com/in/tarek-masryo/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220" />
@@ -57,22 +54,22 @@
 
 ---
 
-## ✅ What I build
+## 🧠 Core competencies
 
-- 🧩 **Decision-ready dashboards** — KPIs, drill-down, and clear takeaways designed for practical decisions.
-- 🧱 **End-to-end ML workflows** — dataset → features → training → evaluation → inference-ready delivery.
-- 🧠 **GenAI / RAG utilities** — structured outputs, validation, and reliability patterns for real applications.
+- 🛠️ **MLOps & Delivery:** reproducible training/evaluation, inference-ready packaging, and clean repo structure.
+- 📊 **Decision-centric dashboards:** KPI-driven UX, drill-down analysis, and action-oriented insights.
+- 🧩 **GenAI / RAG:** structured outputs, validation, lightweight safety checks, and evaluation-friendly logging.
 
 ---
 
 ## 🌟 Featured portfolio
 
 ### 🧩 Dashboards & Apps
-- **Fraud Detection Dashboard** — Streamlit app integrated with ML artifacts and a decision-oriented UX  
-  https://github.com/tarekmasryo/fraud-detection-dashboard  
-  *Companion pipeline:* https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey
+- **Fraud Detection Dashboard** — Streamlit app integrated with ML artifacts and decision-oriented UX  
+  Repo: https://github.com/tarekmasryo/fraud-detection-dashboard  
+  Pipeline: https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey
 
-- **Streamlit portfolio** — deployed dashboards gallery  
+- **Streamlit profile** — deployed dashboards gallery  
   https://share.streamlit.io/user/tarekmasryo
 
 - **Hugging Face profile** — Spaces + Datasets  
@@ -81,32 +78,28 @@
 ---
 
 ### 📦 Data products (Kaggle)
-- **YouTube Shorts & TikTok Trends 2025** — short-form trends dataset for analytics and virality exploration  
-  https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 
-- **RAG QA Evaluation Logs & Corpus** — ops-friendly dataset for evaluating RAG systems and analyzing QA logs  
-  https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus
-
-- **Cancer Risk Factors Dataset** — analysis-ready features for health risk modeling and EDA  
-  https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset
-
-- **Football Matches 2024/2025 (Top Leagues + UCL)** — standardized match-level dataset for analytics & modeling  
-  https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues
-
-- **Digital Lifestyle & Mental Wellness** — behavioral signals for wellbeing analytics and modeling  
-  https://www.kaggle.com/datasets/tarekmasryo/digital-health-and-mental-wellness
+| Dataset | What it’s for |
+|---|---|
+| **YouTube Shorts & TikTok Trends 2025** — https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025 | Short-form trends analytics and virality signal exploration. |
+| **RAG QA Evaluation Logs & Corpus** — https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus | Ops-friendly dataset to evaluate RAG reliability and analyze QA logs. |
+| **Cancer Risk Factors** — https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset | Clean features for health EDA and predictive risk modeling. |
+| **Football Matches 2024/2025 (Top Leagues + UCL)** — https://www.kaggle.com/datasets/tarekmasryo/football-matches-20242025-top-5-leagues | Standardized match-level data for analytics and modeling. |
+| **Digital Lifestyle & Mental Wellness** — https://www.kaggle.com/datasets/tarekmasryo/digital-health-and-mental-wellness | Behavioral signals for wellbeing analytics and prediction. |
 
 ---
 
-## 🧱 Selected engineering projects
+## 🧱 Engineering projects (selected)
+
+> No duplicates here — each project appears once in the README.
 
 - **Credit Card Fraud Detection — A Pipeline Journey**  
   https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey
 
-- **Text Sentiment Analysis** *(canonical)*  
+- **Text Sentiment Analysis (canonical)**  
   https://github.com/tarekmasryo/text-sentiment-analysis
 
-- **Pima Diabetes Pipeline** *(canonical)*  
+- **Pima Diabetes Pipeline (canonical)**  
   https://github.com/tarekmasryo/pima-diabetes-pipeline
 
 ---
@@ -152,12 +145,12 @@
 
 ## 🤝 Collaboration
 
-Open to collaboration on:
+Open to:
 - 🧩 decision-ready dashboards for real datasets  
 - 🧱 productionizing ML workflows (evaluation → deployment)  
 - 🧠 GenAI/RAG utilities with reliability constraints (validation, retries, logging)
 
-Preferred contact: LinkedIn  
+Best contact: LinkedIn  
 https://www.linkedin.com/in/tarek-masryo/
 
 <p align="center">
