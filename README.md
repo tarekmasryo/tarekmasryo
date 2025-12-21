@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=210&section=header&text=Tarek%20Masryo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Kaggle%20Datasets%20Master%20%E2%80%A2%20GenAI%2FLLMs%20%E2%80%A2%20Decision-Ready%20Dashboards&descAlignY=64"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=210&section=header&text=Tarek%20Masryo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20MLOps%20%E2%80%A2%20GenAI%2FLLMs%20%E2%80%A2%20Decision-Ready%20Dashboards&descAlignY=64"
     alt="Tarek Masryo Banner"
   />
 </p>
@@ -12,30 +12,30 @@
 <p align="center">
   AI/ML Engineer building <b>production-minded ML pipelines</b>, <b>decision-ready dashboards</b>, and <b>reliable GenAI/RAG utilities</b>.
   <br/>
-  I turn messy data into <b>clear insights</b> and <b>deployable systems</b>.
+  Turning messy data into <b>clear insights</b> and <b>deployable systems</b>.
 </p>
 
 <p align="center">
   <a href="https://www.kaggle.com/tarekmasryo/datasets" target="_blank">
-    <img alt="Kaggle Datasets" src="https://img.shields.io/badge/Kaggle-Datasets%20Master-0B0F19?logo=kaggle&logoColor=20BEFF" />
+    <img alt="Kaggle Datasets Master" src="https://img.shields.io/badge/Kaggle-Datasets%20Master-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/tarekmasryo/code" target="_blank">
-    <img alt="Kaggle Notebooks" src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-0B0F19?logo=kaggle&logoColor=20BEFF" />
+    <img alt="Kaggle Notebooks Expert" src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-4C6FFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/tarekmasryo" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-0B0F19?logo=github&logoColor=ffffff" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tarek-masryo/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0B0F19?logo=linkedin&logoColor=0A66C2" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://huggingface.co/tarekmasryo" target="_blank">
-    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Spaces%20%26%20Datasets-0B0F19?logo=huggingface&logoColor=FFD21E" />
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Spaces%20%26%20Datasets-0B0F19?style=for-the-badge&logo=huggingface&logoColor=FFD21E" />
   </a>
   <a href="https://share.streamlit.io/user/tarekmasryo" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Apps-0B0F19?logo=streamlit&logoColor=FF4B4B" />
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
@@ -51,16 +51,15 @@
 
 ---
 
-## ✅ What you’ll find here
+## ✅ What I build
 
-- 📦 **Data products** (datasets + documentation you can use right away)
-- 📓 **Applied notebooks** (EDA → modeling → evaluation, written for real use)
-- 🧩 **Interactive dashboards** (KPIs, filters, drill-down, clear takeaways)
-- 🛠️ **ML/GenAI utilities** (structured outputs, validation, and reliability patterns)
+- 🧩 **Decision-ready dashboards** — KPIs, filters, drill-down, and clear takeaways for practical use.
+- 🧱 **End-to-end ML workflows** — dataset → features → training → evaluation → inference-ready delivery.
+- 🛡️ **GenAI / RAG utilities** — structured outputs, validation, and reliability patterns for real apps.
 
 ---
 
-## 🌟 Featured work (recommended entry points)
+## 🌟 Featured work
 
 ### 🧩 Dashboards & Apps
 - **Fraud Detection Dashboard** — Streamlit app integrated with ML artifacts and a decision-oriented UI  
@@ -92,7 +91,8 @@
 
 ---
 
-### 🧱 Engineering depth (selected repos)
+## 🧱 Selected GitHub repositories (engineering-focused)
+
 - **Credit Card Fraud Detection — A Pipeline Journey**  
   https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey
 
@@ -102,55 +102,51 @@
 - **Pima Diabetes Pipeline**  
   https://github.com/tarekmasryo/pima-diabetes-pipeline
 
+- **Fraud Detection Dashboard**  
+  https://github.com/tarekmasryo/fraud-detection-dashboard
+
 ---
 
-## 🗂️ Curated lists (project hubs)
+## 📊 GitHub Stats
 
-These lists group repos into end-to-end tracks (dataset → notebook → app):
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tarekmasryo&show_icons=true&theme=radical&hide_border=true"
+    height="155"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarekmasryo&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
+    height="155"
+    alt="Top languages"
+  />
+</p>
 
-- 📱 YouTube Shorts & TikTok Trends — https://github.com/stars/tarekmasryo/lists/youtube-shorts-tiktok-trends  
-- 🌿 Digital Habits and Mental Health — https://github.com/stars/tarekmasryo/lists/digital-habits-and-mental-health  
-- 💳 Credit Card Fraud Detection — https://github.com/stars/tarekmasryo/lists/credit-card-fraud-detection  
-- 🤖 Generative AI Tools & Trends — https://github.com/stars/tarekmasryo/lists/generative-ai-tools-trends  
-- ⚡ Global EV Charging — https://github.com/stars/tarekmasryo/lists/global-ev-charging  
-- ⚽ Football Matches Analytics — https://github.com/stars/tarekmasryo/lists/football-matches-analytics  
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tarekmasryo&theme=radical&hide_border=true"
+    height="180"
+    alt="GitHub streak"
+  />
+</p>
 
 ---
 
 ## 🛠️ Tech stack
 
-### Core
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](https://www.linux.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
-
-### ML / DL
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?logo=xgboost&logoColor=white)](https://xgboost.ai/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-
-### Apps / APIs / MLOps
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)](https://docs.pydantic.dev/)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
-
-### GenAI / RAG
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/tarekmasryo)
-[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/docs/transformers)
-[![LangChain](https://img.shields.io/badge/LangChain-2E86C1?logo=langchain&logoColor=white)](https://www.langchain.com/)
+| Category | Tools |
+|---|---|
+| **Languages & Core** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)](https://www.linux.org/) [![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) |
+| **Data & Analytics** | [![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/) [![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white)](https://www.pola.rs/) [![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=000)](https://duckdb.org/) |
+| **ML / DL** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/) [![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?logo=xgboost&logoColor=white)](https://xgboost.ai/) [![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?logo=lightgbm&logoColor=white)](https://lightgbm.readthedocs.io/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) |
+| **APIs & Deployment** | [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)](https://docs.pydantic.dev/) [![Uvicorn](https://img.shields.io/badge/Uvicorn-2B2B2B?logo=uvicorn&logoColor=white)](https://www.uvicorn.org/) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/) |
+| **MLOps & Quality** | [![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)](https://mlflow.org/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)](https://docs.github.com/en/actions) [![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org/) [![Ruff](https://img.shields.io/badge/Ruff-D7FF64?logo=ruff&logoColor=000)](https://docs.astral.sh/ruff/) |
 
 ---
 
 ## 🤝 Collaboration
 
-I’m open to collaborations on:
+Open to collaboration on:
 - 🧩 decision-ready dashboards for real datasets  
 - 🧱 productionizing ML workflows (evaluation → deployment)  
 - 🛡️ GenAI/RAG utilities with reliability constraints (validation, retries, logging)
@@ -161,7 +157,7 @@ https://www.linkedin.com/in/tarek-masryo/
 ---
 
 <details>
-  <summary><b>📈 GitHub activity</b></summary>
+  <summary><b>📈 GitHub activity (expand)</b></summary>
   <br/>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tarekmasryo&show_icons=true&hide_title=true&theme=radical&hide_border=true" height="160"/>
