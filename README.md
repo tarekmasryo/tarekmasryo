@@ -7,124 +7,70 @@
   />
 </p>
 
-<h1 align="center">Tarek Masryo</h1>
-
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Production-minded+ML+Pipelines+%E2%80%A2+Evaluation+%E2%80%A2+Deployment;Decision-Ready+Dashboards+%E2%80%A2+Threshold+Policies+%E2%80%A2+KPI-first+UX;Reliable+GenAI%2FRAG+Utilities+%E2%80%A2+Structured+Outputs+%E2%80%A2+Validation%20%E2%80%A2%20Telemetry"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=Production+ML+Systems+%E2%80%A2+Reproducible+Pipelines+%E2%80%A2+CI-friendly+Delivery;Decision+Ops+Dashboards+%E2%80%A2+Threshold+Policies+%E2%80%A2+Cost%2FCapacity+Trade-offs;LLM%2FRAG+Reliability+%E2%80%A2+Schema-first+Outputs+%E2%80%A2+Evaluation+%E2%80%A2+Telemetry"
     alt="Typing SVG"
   />
 </h3>
 
 <p align="center">
-  <b>AI/ML Engineer</b> building <b>production-minded pipelines</b>, <b>decision-ready dashboards</b>, and <b>reliable GenAI/RAG utilities</b>.
+  AI/ML Engineer focused on <b>Decision Ops</b> and <b>Observability</b> — building reproducible ML systems and reliability-first GenAI/RAG pipelines.
   <br/>
-  From raw data → measurable insights → deployable systems.
+  <b>From raw data → decision-ready insights → deployable systems.</b>
 </p>
 
-<!-- Badges Grid (stable layout) -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img alt="Kaggle Datasets Master"
-           src="https://img.shields.io/badge/Kaggle-Datasets%20Master-F0581A?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
-    </td>
-    <td align="center">
-      <img alt="Kaggle Notebooks Expert"
-           src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-4F46E5?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
-    </td>
-    <td align="center">&nbsp;</td>
-    <td align="center">&nbsp;</td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tarekmasryo">
-        <img alt="GitHub"
-             src="https://img.shields.io/badge/GitHub-Portfolio-3B82F6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://tarekmasryo.github.io">
-        <img alt="Website"
-             src="https://img.shields.io/badge/Website-tarekmasryo.github.io-10B981?style=for-the-badge&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/tarekmasryo?tab=repositories&amp;sort=stargazers">
-        <img alt="Repos"
-             src="https://img.shields.io/badge/Repos-By%20Stars-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/tarek-masryo/">
-        <img alt="LinkedIn"
-             src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=111827" />
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <a href="https://www.kaggle.com/tarekmasryo">
-        <img alt="Kaggle"
-             src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://huggingface.co/tarekmasryo">
-        <img alt="Hugging Face"
-             src="https://img.shields.io/badge/Hugging%20Face-Spaces%20%26%20Datasets-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=FFD21E&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://share.streamlit.io/user/tarekmasryo">
-        <img alt="Streamlit"
-             src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white&amp;labelColor=111827" />
-      </a>
-    </td>
-    <td align="center">&nbsp;</td>
-  </tr>
-</table>
-
-<!-- Optional (lightweight). Uncomment if you want a views counter.
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tarekmasryo&amp;label=Profile%20views&amp;color=0E75B6&amp;style=flat" alt="tarekmasryo" />
+  <img alt="Kaggle Datasets Grandmaster"
+       src="https://img.shields.io/badge/Kaggle-Datasets%20Master-F0581A?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
+  <img alt="Kaggle Notebooks Expert"
+       src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-4F46E5?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
 </p>
--->
+
+<p align="center">
+  <a href="https://github.com/tarekmasryo">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-Portfolio-3B82F6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
+  </a>
+  <a href="https://tarekmasryo.github.io">
+    <img alt="Website"
+         src="https://img.shields.io/badge/Website-tarekmasryo.github.io-10B981?style=for-the-badge&amp;labelColor=111827" />
+  </a>
+  <a href="https://github.com/tarekmasryo?tab=repositories&amp;sort=stargazers">
+    <img alt="Repos"
+         src="https://img.shields.io/badge/Repos-By%20Stars-F59E0B?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
+  </a>
+  <a href="https://www.linkedin.com/in/tarek-masryo/">
+    <img alt="LinkedIn"
+         src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=111827" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.kaggle.com/tarekmasryo">
+    <img alt="Kaggle"
+         src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
+  </a>
+  <a href="https://huggingface.co/tarekmasryo">
+    <img alt="Hugging Face"
+         src="https://img.shields.io/badge/Hugging%20Face-Spaces%20%26%20Datasets-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=111827&amp;labelColor=111827" />
+  </a>
+  <a href="https://share.streamlit.io/user/tarekmasryo">
+    <img alt="Streamlit"
+         src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white&amp;labelColor=111827" />
+  </a>
+</p>
 
 ---
 
-## 🧭 Quick links
-
-| Platform | Link |
-|---|---|
-| 🌐 Website | [tarekmasryo.github.io](https://tarekmasryo.github.io) |
-| ⭐ Repos (sorted by stars) | [github.com/tarekmasryo?tab=repositories&sort=stargazers](https://github.com/tarekmasryo?tab=repositories&sort=stargazers) |
-| 📦 Kaggle Datasets | [kaggle.com/tarekmasryo/datasets](https://www.kaggle.com/tarekmasryo/datasets) |
-| 📓 Kaggle Notebooks | [kaggle.com/tarekmasryo/code](https://www.kaggle.com/tarekmasryo/code) |
-| 🤗 Hugging Face | [huggingface.co/tarekmasryo](https://huggingface.co/tarekmasryo) |
-| 🧩 Streamlit Apps | [share.streamlit.io/user/tarekmasryo](https://share.streamlit.io/user/tarekmasryo) |
-| 🔗 LinkedIn | [linkedin.com/in/tarek-masryo](https://www.linkedin.com/in/tarek-masryo/) |
-
----
-
-## 🧠 What I do
+## 🧭 What I do 
 
 | Area | What you can expect |
 |---|---|
-| **ML pipelines** | Clean data → features → training → evaluation → inference-ready packaging |
-| **Dashboards** | KPI-first UX, drill-down analytics, thresholds, and decision-focused insights |
-| **GenAI / RAG** | Structured outputs, validation, lightweight safety checks, evaluation-friendly logs |
-| **MLOps** | Reproducibility, CI-friendly workflows, artifact/version management |
-
----
-
-## 🧩 Core competencies
-
-- 🛠️ **MLOps & delivery:** reproducible training/evaluation, clear repo structure, deployable artifacts  
-- 📊 **Decision-centric analytics:** stakeholder-friendly dashboards built around KPIs and actions  
-- 🧠 **GenAI & RAG:** reliable pipelines with validation, logging, and evaluation mindset  
+| **Production ML pipelines** | Clean data → features → training → evaluation → inference-ready artifacts (repeatable + testable) |
+| **Decision Ops dashboards** | KPI-first UX, drill-down analytics, operating thresholds, cost/capacity trade-offs |
+| **GenAI/RAG reliability** | Schema-first outputs, validation + retries, retrieval evaluation, telemetry for debugging & drift |
+| **MLOps & quality** | CI-friendly delivery, artifact/versioning discipline, monitoring mindset |
 
 ---
 
@@ -140,6 +86,14 @@
 
 ---
 
+### 🧠 LLM System Ops (Decision-Grade Observability)
+
+| Project | Focus | Link |
+|---|---|---|
+| **LLM System Ops — Production Telemetry** | Telemetry → policies: budget burn, hotspots, routing backtests, drift highlights | [Repo](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data) |
+
+---
+
 ### 📦 Data products (Kaggle)
 
 | Dataset | What it’s for | Link |
@@ -152,7 +106,7 @@
 
 ---
 
-## 🧱 Engineering projects
+## 🧰 Systems & Pipelines
 
 | Project | Focus | Link |
 |---|---|---|
@@ -178,14 +132,11 @@
 
 ## 🤝 Collaboration
 
-| I can help with | Examples |
-|---|---|
-| **Decision-ready dashboards** | KPI design, drill-down analytics, threshold-based insights |
-| **Production ML pipelines** | evaluation-first structure, packaging, inference-ready artifacts |
-| **GenAI/RAG utilities** | validation, structured outputs, logging + evaluation datasets |
+- 📊 **Decision Ops:** threshold policies, cost/capacity trade-offs, KPI-to-action dashboards  
+- 🛠️ **Pipeline & MLOps review:** reproducibility, artifact/versioning, CI structure, inference packaging  
+- 🧠 **RAG/LLM reliability:** schema-first outputs, validation + retries, retrieval evaluation, telemetry for debugging & drift  
 
-Best contact: LinkedIn  
-https://www.linkedin.com/in/tarek-masryo/
+**Best contact:** [LinkedIn](https://www.linkedin.com/in/tarek-masryo/)
 
 <p align="center">
   <sub>If you find the work useful, a ⭐ helps more people discover it.</sub>
