@@ -22,7 +22,7 @@
 
 <p align="center">
   <img alt="Kaggle Datasets Grandmaster"
-       src="https://img.shields.io/badge/Kaggle-Datasets%20Master-F0581A?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
+       src="https://img.shields.io/badge/Kaggle-Datasets%20Grandmaster-F0581A?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
   <img alt="Kaggle Notebooks Expert"
        src="https://img.shields.io/badge/Kaggle-Notebooks%20Expert-4F46E5?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
 </p>
