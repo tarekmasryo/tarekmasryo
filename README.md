@@ -22,10 +22,11 @@
 
 <p align="center">
   <img alt="Kaggle Datasets Grandmaster"
-       src="https://img.shields.io/badge/Kaggle-Datasets%20Grandmaster-F0581A?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
+       src="https://img.shields.io/badge/Kaggle-Datasets%20Grandmaster-FACC15?style=for-the-badge&logo=kaggle&logoColor=111827&labelColor=111827" />
   <img alt="Kaggle Notebooks Master"
-       src="https://img.shields.io/badge/Kaggle-Notebooks%20Master-4F46E5?style=for-the-badge&amp;logo=kaggle&amp;logoColor=white&amp;labelColor=111827" />
+       src="https://img.shields.io/badge/Kaggle-Notebooks%20Master-F97316?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=111827" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/tarekmasryo">
