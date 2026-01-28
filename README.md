@@ -130,7 +130,6 @@
 | **GenAI / RAG Stack** | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge) |
 | **MLOps & Quality** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000) |
 
-
 ---
 
 ## 🤝 Collaboration
