@@ -9,7 +9,7 @@
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=GenAI+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Evaluation+%E2%80%A2+Telemetry;Production+ML+%E2%80%A2+APIs+%E2%80%A2+Pipelines+%E2%80%A2+CI-friendly+Delivery;MLOps+%E2%80%A2+MLflow+%E2%80%A2+Monitoring+%E2%80%A2+Latency%2FCost+Budgets;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Forecasting+%E2%80%A2+Decision+Policies"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;pause=900&amp;color=0E75B6&amp;center=true&amp;vCenter=true&amp;width=920&amp;lines=GenAI+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+Evaluation+%E2%80%A2+Telemetry;Production+ML+%E2%80%A2+APIs+%E2%80%A2+Pipelines+%E2%80%A2+CI-friendly+Delivery;MLOps+%E2%80%A2+Monitoring+%E2%80%A2+Latency%2FCost+Budgets;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Forecasting+%E2%80%A2+Decision+Policies"
     alt="Typing SVG"
   />
 </h3>
@@ -30,7 +30,7 @@
 <p align="center">
   <a href="https://github.com/tarekmasryo">
     <img alt="GitHub"
-         src="https://img.shields.io/badge/GitHub-Portfolio-3B82F6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
+         src="https://img.shields.io/badge/GitHub-Profile-3B82F6?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111827" />
   </a>
   <a href="https://tarekmasryo.github.io">
     <img alt="Website"
@@ -81,9 +81,11 @@
 
 | Project | Focus | Link |
 |---|---|---|
-| **Fraud Detection Dashboard** | Streamlit app integrated with ML artifacts + decision-first UX | [Repo](https://github.com/tarekmasryo/fraud-detection-dashboard) |
-| **Streamlit profile** | Deployed dashboards gallery | [Profile](https://share.streamlit.io/user/tarekmasryo) |
-| **Hugging Face profile** | Spaces + Datasets | [Profile](https://huggingface.co/tarekmasryo) |
+| **Fraud Detection Dashboard** | Streamlit app + ML artifacts + decision policies + cost/threshold analysis | [Repo](https://github.com/tarekmasryo/fraud-detection-dashboard) |
+| **EV Charging Analytics Dashboard** | Global geo analytics: clustering, KPIs, filters, fast-DC allocation optimizer | [Repo](https://github.com/tarekmasryo/ev-charging-dashboard) |
+| **Health Intelligence Platform** | Decision-ready wellbeing analytics dashboard with actionable insights | [Repo](https://github.com/tarekmasryo/health-intelligence-platform) |
+| **Football Matches 2024/2025 Dashboard** | Standings, team explorer, head-to-head, match table (Ag-Grid) | [Repo](https://github.com/tarekmasryo/football-matches-results-2024-2025-dashboard) |
+| **Advanced ML Sentiment Lab (Dashboard)** | NLP decision views: ROC/PR, threshold tuning, error analysis | [Repo](https://github.com/tarekmasryo/advanced-ml-sentiment-lab) |
 
 ---
 
@@ -91,8 +93,8 @@
 
 | Project | Focus | Link |
 |---|---|---|
-| **LLM System Ops — Production Telemetry** | LLM/RAG monitoring signals: quality, cost, latency, failure patterns | [Repo](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data) |
-| **RAG QA Evaluation Logs & Corpus** | Retrieval + answer quality evaluation with realistic logs | [Dataset](https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus) |
+| **LLM System Ops — Production Telemetry** | LLMOps signals: quality, cost, latency, failure patterns + aligned SFT samples | [Repo](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data) |
+| **RAG QA Logs & Corpus** | Retrieval + answer evaluation with realistic telemetry and labels | [Repo](https://github.com/tarekmasryo/rag-qa-logs-corpus-data) • [Dataset](https://www.kaggle.com/datasets/tarekmasryo/rag-qa-evaluation-logs-and-corpus) |
 
 ---
 
@@ -111,9 +113,9 @@
 
 | Project | Focus | Link |
 |---|---|---|
-| **Credit Card Fraud Detection — A Pipeline Journey** | End-to-end pipeline layout + evaluation mindset | [Repo](https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey) |
-| **Text Sentiment Analysis** | NLP workflow + clean evaluation structure | [Repo](https://github.com/tarekmasryo/text-sentiment-analysis) |
-| **Pima Diabetes Pipeline** | Tabular ML pipeline layout (train/evaluate/infer) with validation + reproducible runs | [Repo](https://github.com/tarekmasryo/pima-diabetes-pipeline) |
+| **Credit Card Fraud Detection — A Pipeline Journey** | End-to-end ML workflow + calibration + threshold policies + exported artifacts | [Repo](https://github.com/tarekmasryo/Credit-Card-Fraud-Detection-A-Pipeline-Journey) |
+| **Pima Diabetes Pipeline** | Train/evaluate/infer structure with validation + reproducible runs | [Repo](https://github.com/tarekmasryo/pima-diabetes-pipeline) |
+| **Text Sentiment Analysis** | Strong baselines + calibration + threshold tuning + explainability | [Repo](https://github.com/tarekmasryo/text-sentiment-analysis) |
 
 ---
 
@@ -123,19 +125,20 @@
 |---|---|
 | **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000) |
 | **Data & Analytics** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| **ML / DL** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?style=for-the-badge) ![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge) |
+| **ML / DL** | <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-EB5B29?style=for-the-badge" /> <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge" /> <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> |
 | **NLP / CV / LLM** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![Transformers](https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) |
 | **Visualization & Apps** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-6A5ACD?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7A18?style=for-the-badge) |
 | **APIs & Deployment** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **GenAI / RAG Stack** | ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge) |
-| **MLOps & Quality** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000) |
+| **Observability & Monitoring** | ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white) |
+| **MLOps & Quality** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000) ![Pandera](https://img.shields.io/badge/Pandera-111827?style=for-the-badge) |
 
 ---
 
 ## 🤝 Collaboration
 
-- 🚀 **Build & ship ML/GenAI products:** FastAPI + Docker, clean contracts, production-ready delivery  
-- 🧠 **RAG/LLM reliability:** retrieval evaluation, grounded answers, guardrails & regression suites  
+- 🚀 **Build & ship ML/GenAI products:** FastAPI + Docker, clean contracts, production-ready delivery
+- 🧠 **RAG/LLM reliability:** retrieval evaluation, grounded answers, guardrails & regression suites
 - 🛠️ **MLOps:** MLflow tracking, CI quality gates, monitoring signals (latency/errors/drift/cost)
 
 **Best contact:** [LinkedIn](https://www.linkedin.com/in/tarek-masryo/)
