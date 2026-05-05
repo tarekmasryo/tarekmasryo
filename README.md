@@ -2,22 +2,22 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2F80ED,100:9B51E0&amp;height=220&amp;section=header&amp;text=Tarek%20Masryo&amp;fontSize=58&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=AI%2FML%20Engineer%20%E2%80%A2%20Generative%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20MLOps%20%E2%80%A2%20Decision%20Ready%20Dashboards&amp;descAlignY=64"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:9B51E0&height=220&section=header&text=Tarek%20Masryo&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Production%20ML%20%E2%80%A2%20GenAI%20Systems%20%E2%80%A2%20RAG%20%E2%80%A2%20Agents%20%E2%80%A2%20LLMOps&descAlignY=64"
     alt="Tarek Masryo Banner"
   />
 </p>
 
 <h3 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=0E75B6&center=true&vCenter=true&width=980&lines=Production+ML+%E2%80%A2+Generative+AI+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+MLOps;Scalable+FastAPI+Services+%E2%80%A2+Dockerized+Delivery+%E2%80%A2+Decision-Ready+Dashboards;Evaluation+%E2%80%A2+Monitoring+%E2%80%A2+Observability+%E2%80%A2+Threshold+Policies;Applied+NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Reliable+ML+Workflows"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=900&color=0E75B6&center=true&vCenter=true&width=980&lines=Production+ML+%E2%80%A2+Generative+AI+%E2%80%A2+RAG+%E2%80%A2+Agents+%E2%80%A2+LLMOps;FastAPI+Services+%E2%80%A2+Dockerized+Delivery+%E2%80%A2+Decision-Support+Systems;Monitoring+%E2%80%A2+Observability+%E2%80%A2+Threshold+Policies+%E2%80%A2+Reliable+Handoff;Applied+NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Reliable+ML+Workflows"
     alt="Typing SVG"
   />
 </h3>
 
 <p align="center">
-  AI/ML Engineer building <b>production-ready ML and Generative AI systems</b> across modeling, serving, evaluation, and monitoring.
+  AI/ML Engineer building <b>production-ready ML and Generative AI systems</b> across modeling, serving, evaluation, monitoring, and decision support.
   <br/>
-  <b>From validated data pipelines → model evaluation → deployed APIs → decision-ready dashboards.</b>
+  <b>From validated data pipelines → model evaluation → deployed APIs → decision-support systems.</b>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
          src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=111827" />
   </a>
   <a href="https://github.com/tarekmasryo?tab=repositories&sort=stargazers">
-    <img alt="Repos"
+    <img alt="Repositories"
          src="https://img.shields.io/badge/Repos-By%20Stars-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" />
   </a>
 </p>
@@ -65,52 +65,68 @@
 
 ## 🧭 What I build
 
-| Area | What you can expect |
+| Area | What it means in practice |
 |---|---|
-| **Production ML systems** | Leak-safe evaluation, calibrated models, threshold policies, reproducible artifacts, and decision-ready outputs |
-| **Generative AI workflows** | RAG evaluation, retrieval attribution, tool-calling agents, structured outputs, and quality-aware rollout review |
-| **APIs & serving** | Dockerized FastAPI services, strict request/response schemas, versioned artifacts, and CI-friendly delivery |
-| **Monitoring & decision support** | Telemetry, observability, drift and risk review, latency and cost trade-offs, triage logic, and operational dashboards |
-| **Applied NLP & CV** | Text classification, semantic search, threshold tuning, explainability, and practical computer vision apps |
+| **Production ML systems** | Leakage-safe pipelines, calibrated outputs, threshold policies, reproducible artifacts, and decision-ready outputs |
+| **Generative AI & RAG** | Retrieval attribution, hallucination exposure, tool-calling agents, structured outputs, and quality checks before rollout |
+| **APIs & serving** | Dockerized FastAPI services, strict schemas, versioned artifacts, and CI-friendly delivery |
+| **Monitoring & ops** | Telemetry, drift signals, cost/latency trade-offs, triage thresholds, and operator-facing workflows with clear handoff logic |
+| **Applied NLP & CV** | Text classification, semantic search, threshold tuning, explainability, image restoration, and practical computer vision apps |
 
 ---
 
-## 🌟 Featured projects
+## 🌟 Featured work
 
-| Project | Focus | Links |
-|---|---|---|
-| **Fraud Detection Dashboard** | Streamlit analytics UI + FastAPI inference + threshold tuning + cost-aware fraud review | [Repo](https://github.com/tarekmasryo/fraud-detection-dashboard) |
-| **LLM Production Telemetry** | Multi-table telemetry → routing policies, drift review, triage thresholds, and decision artifacts | [Repo](https://github.com/tarekmasryo/llm-production-telemetry) · [Data](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data) |
-| **RAG QA Logs & Corpus** | Retrieval attribution, failure taxonomy, KPI baselines, trade-off analysis, and rollout gating | [Repo](https://github.com/tarekmasryo/rag-qa-logs-and-corpus) · [Data](https://github.com/tarekmasryo/rag-qa-logs-corpus-data) |
-| **Road Accident Risk** | Residual-boosted ensemble, stable OOF evaluation, interpretable risk features, and calibrated safety scoring | [Kaggle](https://www.kaggle.com/code/tarekmasryo/road-accident-risk-ps5e10) |
-| **EV Charging Analytics** | Geospatial analytics, fast-DC allocation optimizer, market slices, and scenario-based network planning | [Repo](https://github.com/tarekmasryo/ev-charging-dashboard) |
-| **Cancer Risk Analysis** | Clean tabular data, validation, leakage-aware benchmarking, and interpretable risk modeling | [Repo](https://github.com/tarekmasryo/cancer-risk-prediction) · [Data](https://github.com/tarekmasryo/cancer-risk-factors-data) |
+| Project | What it demonstrates |
+|---|---|
+| [**Fraud Risk Ops Platform**](https://github.com/tarekmasryo/fraud-risk-ops-platform) | FastAPI inference, Streamlit analyst UI, calibrated risk scores, threshold policies, audit logs, batch jobs, and monitoring hooks |
+| [**RAG QA Command Center**](https://github.com/tarekmasryo/rag-qa-command-center) | Retrieval quality evaluation, hallucination exposure, trace review, configuration trade-offs, and policy simulation |
+| [**LLMOps Telemetry Command Center**](https://github.com/tarekmasryo/llmops-telemetry-command-center) | Reliability, latency, cost, routing-policy review, drift signals, triage thresholds, and evidence exports |
+| [**Advanced ML Sentiment Lab**](https://github.com/tarekmasryo/advanced-ml-sentiment-lab) | TF-IDF pipelines, ROC/PR evaluation, threshold tuning, error review, live prediction, and exportable artifacts |
+| [**Health Intelligence Platform**](https://github.com/tarekmasryo/health-intelligence-platform) | Behavioral risk analytics, cohort KPIs, threshold diagnostics, feature importance, trends, and scenario simulation |
+| [**Old Photo Restorer**](https://github.com/tarekmasryo/Old-Photo-Restorer) | Gradio computer vision app with GFPGAN restoration, optional upscaling, before/after preview, and batch ZIP export |
 
 ---
 
-## 🧠 Selected NLP & CV work
+## 📊 Analytics & decision apps
 
-| Project | Focus | Links |
-|---|---|---|
-| **Advanced ML Sentiment Lab** | Streamlit + Plotly sentiment analysis lab with TF-IDF, ROC/PR evaluation, threshold tuning, error analysis, and live prediction | [Repo](https://github.com/tarekmasryo/advanced-ml-sentiment-lab) |
-| **Text Sentiment Analysis** | IMDB sentiment pipeline with calibrated TF-IDF baselines, threshold tuning, explainability, and BiLSTM baseline | [Repo](https://github.com/tarekmasryo/text-sentiment-analysis) |
-| **SMS Spam Detection** | Dual TF-IDF pipeline with calibrated Linear SVM, nested CV, threshold tuning, explainability, and robustness checks | [Repo](https://github.com/tarekmasryo/sms-spam-detection) |
-| **Old Photo Restorer** | Practical computer vision Gradio app for old-photo restoration with GFPGAN, optional upscaling, and batch ZIP export | [Repo](https://github.com/tarekmasryo/Old-Photo-Restorer) |
+| Project | Focus |
+|---|---|
+| [**Short-Video Intelligence Dashboard**](https://github.com/tarekmasryo/short-video-intelligence-dashboard) | Virality scoring, engagement metrics, creator leaderboards, timing patterns, and segment benchmarks |
+| [**EV Charging Analytics**](https://github.com/tarekmasryo/ev-charging-dashboard) | Geospatial infrastructure analytics, fast-DC allocation scenarios, market slices, and network planning |
+| [**Football Matches Dashboard**](https://github.com/tarekmasryo/football-matches-dashboard) | European football and UCL analytics: KPIs, standings, team explorer, head-to-head, and interactive match tables |
+| [**Seaborn & Matplotlib Visual Lab**](https://github.com/tarekmasryo/seaborn-matplotlib-visual-lab) | Interactive Streamlit lab to build, compare, and export Seaborn vs Matplotlib charts with UI controls and generated code snippets |
+| [**Hugging Face QuickStart Tool**](https://github.com/tarekmasryo/QuickStart) | Gradio tool that converts model/repo URLs into run commands, download snippets, file views, risk hints, and ZIP scaffolds |
+
+---
+
+## 🧠 Selected ML, NLP & healthcare-style workflows
+
+| Project | Focus |
+|---|---|
+| [**Road Accident Risk Prediction**](https://www.kaggle.com/code/tarekmasryo/road-accident-risk-ps5e10) | Two-stage risk scoring with LightGBM, XGBoost residual modeling, NNLS blending, stable OOF evaluation, and interpretable risk features |
+| [**Cancer Risk Analysis**](https://github.com/tarekmasryo/cancer-risk-prediction) | Clean tabular data, validation, leakage-aware benchmarking, and interpretable risk modeling for educational analytical use |
+| [**Clinical Deterioration Early Warning**](https://github.com/tarekmasryo/hospital-deterioration-next-12h-early-warning-baseline) | 12-hour deterioration baseline with tabular models, probability ensembling, and cost-based threshold policy tables |
+| [**Pima Diabetes Pipeline**](https://github.com/tarekmasryo/pima-diabetes-pipeline) | End-to-end diabetes risk pipeline with EDA, feature engineering, calibration, cost-aware thresholding, and deployable artifacts |
+| [**SMS Spam Detection**](https://github.com/tarekmasryo/sms-spam-detection) | Dual TF-IDF pipeline with calibrated Linear SVM, nested CV, threshold tuning, explainability, and robustness checks |
+| [**Text Sentiment Analysis**](https://github.com/tarekmasryo/text-sentiment-analysis) | IMDB sentiment pipeline with calibrated TF-IDF baselines, threshold tuning, explainability, and BiLSTM baseline |
 
 ---
 
 ## 📦 Selected data products
 
-| Dataset | What it’s for | Links |
-|---|---|---|
-| **Cancer Risk Factors** | Clean health, lifestyle, environmental, and genetic features for EDA and risk modeling | [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset) |
-| **Global EV Infrastructure** | Standardized EV charging infrastructure data for geospatial analytics, planning, and network modeling | [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/global-ev-charging-stations) |
-| **YouTube Shorts & TikTok Trends 2025** | Short-form content analytics, trend exploration, and virality analysis | [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025) |
-| **Digital Lifestyle & Mental Wellness** | Behavioral signals for wellbeing analytics and predictive workflows | [Kaggle](https://www.kaggle.com/datasets/tarekmasryo/digital-health-and-mental-wellness) |
+| Dataset | What it enables |
+|---|---|
+| [**RAG QA Logs & Corpus**](https://github.com/tarekmasryo/rag-qa-logs-corpus-data) | RAG evaluation with QA logs, retrieval events, corpus documents, and evidence-style review workflows |
+| [**LLM Production Telemetry**](https://github.com/tarekmasryo/llm-system-ops-production-telemetry-sft-data) | Offline LLMOps telemetry for reliability, latency, cost, routing, drift, and triage-policy review |
+| [**Cancer Risk Factors**](https://www.kaggle.com/datasets/tarekmasryo/cancer-risk-factors-dataset) | Health, lifestyle, environmental, and genetic features for leakage-aware risk modeling |
+| [**Global EV Infrastructure**](https://www.kaggle.com/datasets/tarekmasryo/global-ev-charging-stations) | Standardized EV charging data for geospatial analytics, planning, and network modeling |
+| [**YouTube Shorts & TikTok Trends 2025**](https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025) | Short-form content analytics, trend exploration, creator benchmarks, and virality analysis |
+| [**Digital Lifestyle & Mental Wellness**](https://www.kaggle.com/datasets/tarekmasryo/digital-health-and-mental-wellness) | Behavioral signals for wellbeing analytics, cohort exploration, and predictive workflows |
 
 ---
 
-## 🛠️ Tech stack
+## 🛠️ Stack
 
 | Category | Tools |
 |---|---|
@@ -118,23 +134,23 @@
 | **Data & Analytics** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=000) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
 | **ML / DL** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B29?style=for-the-badge) ![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow/Keras-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | **NLP / CV / LLM** | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![Transformers](https://img.shields.io/badge/Transformers-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-111827?style=for-the-badge) ![pgvector](https://img.shields.io/badge/pgvector-111827?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-111827?style=for-the-badge) |
-| **Apps & Dashboards** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-6A5ACD?style=for-the-badge) ![Gradio](https://img.shields.io/badge/Gradio-FF7A18?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PyDeck](https://img.shields.io/badge/PyDeck-111827?style=for-the-badge) |
+| **Apps & Interfaces** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-6A5ACD?style=for-the-badge) ![Gradio](https://img.shields.io/badge/Gradio-FF7A18?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![PyDeck](https://img.shields.io/badge/PyDeck-111827?style=for-the-badge) |
 | **APIs & Serving** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-111827?style=for-the-badge) ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RQ](https://img.shields.io/badge/RQ-111827?style=for-the-badge) |
 | **Monitoring & Quality** | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=000) ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=for-the-badge) |
 
 ---
 
-## 🤝 Collaboration
+## 🤝 Open to collaborating on
 
-- 🚀 **Production ML & Generative AI systems:** FastAPI services, Dockerized delivery, evaluation-first workflows, and decision-ready outputs
-- 🧠 **RAG & LLM reliability:** retrieval attribution, grounded outputs, guardrails, and regression-friendly review
-- 🗂️ **Datasets & reproducible assets:** validated schemas, clear documentation, reusable notebooks, and ML-ready data products
-- 📊 **Decision-ready dashboards:** interactive analytics, threshold tuning, monitoring, and operational insights
+- 🚀 **Production ML & GenAI systems:** FastAPI services, Dockerized delivery, evaluation-first workflows, and review-ready outputs
+- 🧠 **RAG reliability:** retrieval attribution, grounded outputs, guardrails, and regression-friendly review
+- 🗂️ **Validated data products:** clean schemas, documented pipelines, reusable notebooks, and ML-ready artifacts
+- 📊 **Decision-support tooling:** monitoring, threshold policies, analytics interfaces, and operator workflows
 
 **Best contact:** [LinkedIn](https://www.linkedin.com/in/tarek-masryo/)
 
 <p align="center">
-  <sub>If you find the work useful, a ⭐ helps more people discover it.</sub>
+  <sub>If the work is useful, a ⭐ helps others find it.</sub>
 </p>
 
 <p align="center">
